@@ -165,4 +165,6 @@ cython_debug/
 img/
 img_test/
 img_val/
+.conda/
+model_saved/
 
