@@ -167,4 +167,5 @@ img_test/
 img_val/
 .conda/
 model_saved/
+/data_projet_lego_classification/
 
