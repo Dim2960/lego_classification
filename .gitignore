@@ -163,9 +163,12 @@ cython_debug/
 
 # personal addings
 img/
+img_prepa/
 img_test/
 img_val/
+photo_lego/
 .conda/
 model_saved/
 /data_projet_lego_classification/
+
 
